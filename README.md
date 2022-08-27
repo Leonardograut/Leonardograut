@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Parte das redes sociais--> 
 <div>
  <br>
-<a href = "tinynoback@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:tinynoback@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/leonardo-nascimento-a26739223/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://replit.com/@leonardograut" target="_blank"><img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a> 
 
