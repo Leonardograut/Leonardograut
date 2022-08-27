@@ -1,7 +1,7 @@
 ### 
-   Meu nome é Leonardo, estudante de desenvolvimento web 💻
+ Olá Meu nome é Leonardo, estudante de desenvolvimento web 💻
    ------------- 
-###    My name is Leonardo , Web Development Student  💻
+### Hello  My name is Leonardo , Web Development Student  💻
     
     
 
