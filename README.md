@@ -1,7 +1,7 @@
 ### 
- Olá Meu nome é Leonardo, estudante de Desenvolvimento de Sistemas 💻
+ Olá Meu nome é Leonardo, Estudante  Analise e Desenvolvimento de Sistemas 💻
    ------------- 
-### Hello  My name is Leonardo , Student Systems development  💻
+### Hello, my name is Leonardo, Systems Analysis and Development Student 💻
     
     
 
@@ -28,16 +28,30 @@ Here are some ideas to get you started:
 <a href = "https://www.linkedin.com/in/leonardo-nascimento-a26739223/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://replit.com/@leonardograut" target="_blank"><img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a> 
 
-<!-- <a href = "" target = "newblank" ><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+
+
   
 </div> 
 <!-- Parte dos icones de ferramentas que sei usar --> 
 <div style = "display: inline_block"><br>
-<img align = "center" alt="Leonardo-JS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-<img align = "center" alt="Leonardo-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align = "center" alt="Leonardo-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align = "center" alt="Leonardo-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align = "center" alt="Leonardo-MySql" height = "30" width = "40" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align = "center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+
+
+
+
+
 
 </div <br>
   
@@ -45,3 +59,9 @@ Here are some ideas to get you started:
  <br>
  <img src="https://komarev.com/ghpvc/?username=Leonardograut&color=green" alt="Leonardograut" /> 
 </div>
+
+
+<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+
+
